@@ -1,0 +1,21 @@
+proof of transfer:
+
+two parties involved in this concensus
+
+1: STX miners: Send BTC to compete, to earn stacks tokens
+
+the more bitcoin u commit higher the chances of initiating the block
+leader is selected by varifiable random function
+
+2: Stackers: add value to the network and lock up their tokens and earn BTC send by miners
+
+NFT=> unique tokens that belongs to owner and ownership can be transffered value can be increased
+
+
+Minting=> making money out of tokes eg: making coins out of metals
+
+fungable tokens=> same value over exchange no uniqueness
+
+
+
+

@@ -1,0 +1,21 @@
+admin panel:
+
+Add new book
+issue book
+check fine(.1$ dialy)
+student info
+accept requested book
+delete book
+update password
+sign IN
+Sign UP
+
+
+STUDENT PANEL:
+list of books
+request
+issue information
+fines
+update password
+sign IN
+Sign UP

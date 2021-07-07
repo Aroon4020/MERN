@@ -1,0 +1,17 @@
+HTTP: hyperText(text that can link to other text) transfer Protocol
+Application layer protocol built on top of  TCP/IP protocol(not stateless) 
+every HTTP request is executed independently without knowledge of previous request
+that makes http stateless
+
+REST: architectural pattern with design guideliness (basically a convention for bulding http services)
+
+API: Application Programming Interface 
+NPM init: pakage.json file
+
+Node: runtime javascript envornment that run javascript outside broswer
+
+Express: NPM pakage, light weight web server
+
+Middleware: Function that executes back to back in the request pipline
+when a request come there a bunch of functions that executes
+middlewares runs in order in which we define
