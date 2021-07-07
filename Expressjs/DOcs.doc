@@ -1,0 +1,9 @@
+Static middleware:To serve static files such as images, CSS files, and JavaScript files, use the express.
+static built-in middleware function in Express. 
+
+middleware => present in request and response cycle
+
+API=> SERVER provide data, requestes by client using http request
+
+express middleware are function that execute during the request to the server
+each middleware have exess to req res obj

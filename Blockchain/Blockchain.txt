@@ -1,0 +1,28 @@
+cryptography: plain text to cipher text to plain text. encryption to decryption and vice versa. 
+this is used to acheive confidentiality(no one can read your data)
+confidentiality achieved by encryption
+
+cryptography achived by symertric (1)key and asymetric (2)key
+
+
+Digital Signature: proof in a hand of reciver that this belongs to a particular
+
+Any change in blockchian go through concensus protocol 
+BLockchain: record of data stored on network of computer
+*****3 pillars of blockchain*****
+1: decentralization: data store on multiple comp and no single entity manages/controll the data store
+
+2: Transparency: public ledger everyone can see the data
+
+3: Immutability/ unchangable: this acheived through cryptography & blockchain Hashing
+
+
+***** USES of BLOCKCHAIN TECHNOLOGY *****
+bitcoin and etherium are use cases of blockchian technology
+bitcoin is digital currency and/or store of value
+
+Ether: digital currency, ether was created as a form payment to fuel etherum network
+amount of ether required for network fees(to fuel etherium network) is determined by GAS
+3 layers of etherium: a) hardware(nodes of etherum blc)
+		      b) software layer: for smartcontract using solidity
+		      c) application layer: for building dapps 	

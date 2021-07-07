@@ -1,0 +1,61 @@
+Hyperledger is really the first series of projects focused on permissioned blockchain applications.
+hyperledger is a software used to create one's own personalized  Blockchain Service
+the goal of hyperledger is to create enterprise based blockchain 
+
+There are no administrator permissions within a blockchain that allow editing or deleting of data.(etherium, bitcoin)
+
+In summary, distributed ledger technology generally consists of three basic components:
+
+A data model that captures the current state of the ledger
+A language of transactions that changes the ledger state
+A protocol used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.
+
+
+The Hyperledger Sawtooth uses Proof of Elapsed Time.
+
+Hyperledger blockchains are generally permissioned blockchains, which means that the parties that join the network are authenticated and authorized to participate on the network. 
+Hyperledger’s main goal is to create enterprise grade, open source, distributed ledger frameworks and code bases to support business use cases.
+
+Types of Blockchains
+
+A blockchain can be both permissionless (like Bitcoin or Ethereum) or permissioned (like the different Hyperledger blockchain frameworks).
+A permissionless blockchain is also known as a public blockchain, because anyone can join the network.
+A permissioned blockchain, or private blockchain, requires pre-verification of the participating parties within the network, and these parties are usually known to each other.
+
+disadvantages of public blockchain:
+in pub blc each peer has to execute each and every transaction and run a concensus algo to validate it, this is major challenge when it comes to scalability
+moreover transaction Confidenitiality and privacy is also getting lost as every node recieving copy of ledger
+
+
+Advantages of Using a Permissioned Blockchain over a Permissionless Blockchain
+
+If you look at permissionless blockchains, like the Bitcoin blockchain or the Ethereum blockchain, anyone can join the network, as well as write and read transactions. 
+The actors in the system are not known, which means there could be some malicious actors within the network.
+
+Hyperledger reduces these security risks and ensures that only the parties that want to transact are the ones that are part of the transaction
+and, rather than displaying the record of the transactions to the whole network, they remain visible only to the parties involved.
+So, Hyperledger provides all the capabilities of the blockchain architecture - data privacy, information sharing, immutability,
+with a full stack of security protocols - all for the enterprise. 
+Permissioned blockchains offer more efficient transaction performance, thus being highly scalable, and have a clearly defined governance structure. 
+
+(supply chain management, the management of the flow of goods and services, between businesses and locations)
+
+The supply chain management is an ideal use case for permissioned blockchains. You would only want trusted parties participating in the network.
+
+Each participant that is involved in the supply chain would require permissions to execute transactions on the blockchain. 
+These transactions would allow other companies to understand where in the supply chain a particular item is.
+
+Smart contracts are simply computer programs that execute predefined actions when certain conditions within the system are met.
+Smart contracts provide the language of transactions that allow the ledger state to be modified. 
+They can facilitate the exchange and transfer of anything of value (e.g. shares, money, content, property).
+
+Consensus in the network refers to the process of achieving agreement among the network participants as to the correct state of data on the system.
+
+Proof of Elapsed Time (PoET)
+the PoET consensus algorithm is a hybrid of a random lottery and first-come-first-serve basis. In PoET, each validator is given a random wait time.
+
+"The validator with the shortest wait time for a particular transaction block is elected the leader".
+
+
+
+

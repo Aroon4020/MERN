@@ -1,0 +1,6 @@
+window(global object) vs document or DOM(child of window object) & DOM only render html
+every thing in document present in window but it is not true in viceversa
+to find history or URL we use window object. can't get these with DOM object
+
+BOM: browsser object model which deals with browser component aside from document
+like history location navigator

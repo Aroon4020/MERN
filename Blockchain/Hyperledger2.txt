@@ -1,0 +1,60 @@
+hyperledger is project under linux foundation for creating permissioned/ private blockchain
+
+Membership service provider: validate and authenticate the user to register/ be part of system and gives the level of rights to a particular node
+MSP request certification authority
+
+-No cryptocurrency
+
+- each and every entity is modulare(plug and play)
+
+- consensus is driven by node(endoreser) who validate transaction
+
+- Channels : a way communicating with two entities whitout without disclosing the transaction with others in network 
+in a single blc network u can multiple n/w toghter
+- chaincode: smart contract in hyperledger
+
+endorser run chaincode to see that the transaction is valid or not
+
+MSP
+CA
+Endorser
+Orderers: special Nodes, 1:create the block from transactions 2:Distribute the block to all nodes including endorser and commiters
+Commiters: they will get the block from ordering service they will verify that the transaction that are part of block are endorse by endorser are not
+once they verify then they update thier ledger and trasaction added to blc
+
+
+Unique advantages of hyperledger Fabric:
+Permissioned membership
+Rich query overimmutable distributable ledger
+Modular architechure supporting plug-in components
+
+Problems with Existing Blockchain:
+Limited throughput:
+slow transaction conformation
+NO privacy
+Public: any one can join
+
+Hyperledger Architechure:
+
+1)Membership Service: provide registration service 
+
+2) Blockchain services: concensus, distributed ledger, ledger storage
+
+3) Chain code: peice of code that lets you interact with network's shared ledger
+
+
+Hyperledger Business Blockchain frameworks reach concesus by performming two separate activities:
+
+1) ordering: collecting the transaction, creating the block and updating merkle tree and hashing and transmitting the block to the commiter node
+2) Validating: (done by commiter node)
+
+by logically separating these activity means hyperledger framework can work with any hyperledger consensus module
+
+
+membership=>blockchain=>transactions=>ChainCode
+
+
+What is Consortium Blockchain? 
+Federated blockchain or consortium blockchain is a blockchain technology where instead of only a single organization, multiple organizations govern the platform. 
+It's not a public platform rather a permissioned platform.     
+

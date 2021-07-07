@@ -1,0 +1,13 @@
+Ganache(Personal Blockchain): Quickly fire up a personal Ethereum blockchain
+which you can use to run tests, execute commands, 
+and inspect state while controlling how the chain operates.
+
+Truffle: a tool allow to develop a smart contract, deploy smart contrat
+also allow to develop UI
+
+MetaMask: allow us to connect to ethereum, 
+Connecting you to Ethereum and the Decentralized Web.
+
+MMK= faST12345^&*()
+
+Secret Backup Phrase: despair interest art test consider model forget negative grunt forest deal draw

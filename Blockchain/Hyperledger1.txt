@@ -1,0 +1,33 @@
+Components of Hyperledger Frameworks
+
+An append-only(shared) distributed ledger
+A consensus algorithm for agreeing to changes in the ledger
+Privacy of transactions through permissioned access
+Smart contracts to process transaction requests.
+
+
+The Hyperledger frameworks are used to build blockchains and distributed ledgers.
+
+hyperledger Frameworks
+
+Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases.
+It can also be ran on test networks such as Rinkeby, Ropsten, and Görli.
+
+Hyperledger Burrow is a complete single-binary blockchain distribution focussed on simplicity, speed, and developer ergonomics. 
+It supports both EVM and WASM based smart contracts and uses BFT consensus via the Tendermint algorithm".
+
+Hyperledger Fabric is an enterprise-grade, permissioned distributed ledger platform in the Hyperledger greenhouse
+
+
+Hyperledger Indy: specially for identification system
+
+Hyperledger Iroha: for mobile development application(C++)
+
+Hyperledger tools:
+are auxiliary softwares used for things like deploying and maintaining blockchains, examining the data on the ledgers,
+as well as tools to design, prototype, and extend blockchain networks.
+
+Hyperledger libraries for enterprise-grade blockchain deployments.
+
+Consensus algorithms ensure that all participants agree on the data stored within the blockchain.
+
